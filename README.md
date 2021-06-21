@@ -1,5 +1,7 @@
 # TUCaN Grades
 
+__Update:__ Since this feature has been implemented as a first party solution this repository has been archived.
+
 TUCaN Grades is a small script to check [TUCaN](https://www.tucan.tu-darmstadt.de) for new grades.
 
 ## Setup
